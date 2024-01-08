@@ -1,5 +1,5 @@
 #  Hi, my name is Jorge 👋
-### A Cross-Platform Apliccations degree student
+### A Cross-Platform Appliccations degree student
 <img src="https://lh3.googleusercontent.com/a/ACg8ocLemYEQN03oHwGTp0qab3BDW6AaJqLzAr7QA6IcZyepptU=s270-c-no" alt="Imagen de perfil" style="width: 5%;">
 
 
