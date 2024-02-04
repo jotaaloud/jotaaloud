@@ -26,7 +26,7 @@ And some more...
 
 ## 🔗Find me on:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@jotaa%5Floud-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jotaa_loud?utm_source=qr)
+[![Instagram](https://img.shields.io/badge/Instagram-@__jotaa__loud-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jotaa_loud?utm_source=qr)
 </br>
 <a href="mailto:jorgevarelazamora@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
