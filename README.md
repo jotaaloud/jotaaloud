@@ -9,8 +9,6 @@
 
 I started to study the degree on 2023.
 
-I'm currently working on the weekends for Uber as a driver.
-
 ## 🛠️Technologies:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
