@@ -18,14 +18,15 @@ I started to study the degree on 2023.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ### Knowledgeable about:
-![Static Badge](https://img.shields.io/badge/JFrame-%23FFFFFF?logo=Java&labelColor=%23F89820&color=%23F89820)
+![Static Badge](https://img.shields.io/badge/Swing-%23FFFFFF?style=flat&logo=Java&labelColor=%23F89820&color=%23F89820)
 
 </br>
 
 ## 💻IDEs/Editors:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=plastic&logo=Java&labelColor=%232C2255&color=%232C2255)
+![Static Badge](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
+
 
 
 </br>
