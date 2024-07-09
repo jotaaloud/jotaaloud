@@ -11,7 +11,7 @@ I started to study the degree on 2023.
 
 ## 🛠️Technologies:
 
-![Java](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
@@ -19,6 +19,8 @@ I started to study the degree on 2023.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Knowledgeable about:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Java](https://img.shields.io/badge/Swing-%23FFFFFF?style=flat&logo=Java&labelColor=%23F89820&color=%23F89820)
 
 </br>
