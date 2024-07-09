@@ -17,8 +17,9 @@ I started to study the degree on 2023.
 </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Knowledgeable about:
-![Static Badge](https://img.shields.io/badge/Swing-%23FFFFFF?style=flat&logo=Java&labelColor=%23F89820&color=%23F89820)
+![Java](https://img.shields.io/badge/Swing-%23FFFFFF?style=flat&logo=Java&labelColor=%23F89820&color=%23F89820)
 
 </br>
 
