@@ -1,4 +1,4 @@
-#  Hi, my name is Jorge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+#  Hi, my name is Jorge <img src="/Assets/Hi.gif" width="35" />
 ### A Cross-Platform Applications degree student <img src="https://lh3.googleusercontent.com/a/ACg8ocLemYEQN03oHwGTp0qab3BDW6AaJqLzAr7QA6IcZyepptU=s270-c-no" alt="Imagen de perfil" style="width: 5%;">
 
 
