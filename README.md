@@ -32,7 +32,7 @@ I started to study the degree on 2023.
 
 ## 🔗Find me on:
 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jotaaloud)
+[![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jotaaloud)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@jotaa__loud-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jotaa_loud?utm_source=qr)
 
