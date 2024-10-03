@@ -30,6 +30,20 @@ I started to study the degree on 2023.
 ![Static Badge](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
 
 
+## 📚Learning:
+
+![Visual Basic](https://img.shields.io/badge/VB-Visual_Basic-325a99?style=for-the-badge&logoColor=white&labelColor=1c3969)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-000000?style=for-the-badge&labelColor=797979&color=ba60b8)
+
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/%24\__-Bash-000000?style=for-the-badge&labelColor=797979&color=EEEEEE)
+
+
+
 ## 🔗Find me on:
 
 [![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jotaaloud)
