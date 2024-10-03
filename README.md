@@ -40,7 +40,7 @@ I started to study the degree on 2023.
 
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/%24\__-Bash-000000?style=for-the-badge&labelColor=797979&color=EEEEEE)
+![Bash](https://img.shields.io/badge/Bash-1f8c2d?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 
