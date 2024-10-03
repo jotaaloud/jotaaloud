@@ -27,7 +27,7 @@ I started to study the degree on 2023.
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 
-![Static Badge](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
+![Java WindowBuilder](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
 
 
 ## 📚Learning:
@@ -48,7 +48,7 @@ I started to study the degree on 2023.
 
 [![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jotaaloud)
 
-[![Static Badge](https://img.shields.io/badge/GMAIL-jotaaloud%40gmail.com-%23FFFFFF?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Ajotaaloud%40gmail.com)](mailto:jotaaloud@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-jotaaloud%40gmail.com-%23FFFFFF?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Ajotaaloud%40gmail.com)](mailto:jotaaloud@gmail.com)
 
 
 
