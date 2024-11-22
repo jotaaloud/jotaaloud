@@ -31,9 +31,9 @@ I started to study the degree on 2023.
 ![Java WindowBuilder](https://img.shields.io/badge/Java%20WindowBuilder-%23FFFFFF?style=flat&logo=Java&labelColor=%232C2255&color=%232C2255)
 
 <details closed>
-    <summary>
-## 📚Learning:
-    </summary>
+    <summary><h2><bold>
+    📚Learning:
+    </bold></h2></summary>
 
 ![Visual Basic](https://img.shields.io/badge/VB-Visual_Basic-325a99?style=for-the-badge&logoColor=white&labelColor=1c3969)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
