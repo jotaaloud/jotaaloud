@@ -1,5 +1,5 @@
 #  Hi, my name is Jorge <img src="/Assets/Hi.gif" width="35" />
-### A Cross-Platform Applications degree student <img src="https://lh3.googleusercontent.com/a/ACg8ocLemYEQN03oHwGTp0qab3BDW6AaJqLzAr7QA6IcZyepptU=s270-c-no" alt="Imagen de perfil" style="width: 5%;">
+### A Cross-Platform Applications degree student <img src="./Assets/logojl.png" alt="Imagen de perfil" style="width: 2%;">
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/jotaaloud?style=social)
