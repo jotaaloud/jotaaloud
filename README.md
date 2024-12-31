@@ -56,3 +56,5 @@ I started to study the degree on 2023.
 
 
 #### You can hype me up by clicking "☆ Star" at my repos or following me here ¡Thanks!
+
+#### Happy 2025!⭐️
