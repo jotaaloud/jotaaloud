@@ -1,4 +1,5 @@
-![Header](./Assets/main.svg)
+<img src="Assets/header.png" width="100%">
+
 
 #  Hi, my name is Jorge <img src="/Assets/Hi.gif" width="35" />
 ### A Cross-Platform Applications degree student
