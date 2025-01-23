@@ -9,7 +9,7 @@
   <circle cx="350" cy="50" r="30" fill="none" stroke="black" stroke-width="2"/>
 
   <text x="50" y="42" font-family="Crimson Text, serif" font-size="16" font-weight="700" fill="rgb(0, 0, 0)">
-    Cross-platform Aplications Dev
+    Cross-platform Applications Dev
   </text>
 
   <text x="40" y="66" font-family="Courier New" font-size="10" font-weight="700" word-spacing="6" fill="rgba(255, 255, 255, 1)" >
