@@ -1,18 +1,19 @@
-<img src="Assets/header.png" width="100%">
+<img src="Assets/main.svg" width="100%">
 
 
 #  Hi, my name is Jorge <img src="Assets/Hi.gif" width="35" />
-### A Cross-Platform Applications degree student
+A Cross-Platform Applications dev
 
+<br>
 
 ## 🛠️Technologies:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Basic](https://img.shields.io/badge/VB-Visual_Basic-325a99?style=for-the-badge&logoColor=white&labelColor=1c3969)
 
 
@@ -30,33 +31,24 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-## 🎛️ OS User
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
 ## CRMs: 
 ![Odoo](https://img.shields.io/badge/Odoo-000000?style=for-the-badge&labelColor=797979&color=ba60b8)
 
 
 <details closed>
-    <summary>🧠Learning:<hr/></summary>
-<!--
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
--->
+    <summary>🧠Learning and interested on:<hr/></summary>
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<!--
-![Bash](https://img.shields.io/badge/Bash-1f8c2d?style=for-the-badge&logo=gnu-bash&logoColor=white)-->
+![Artificial Intelligence](https://img.shields.io/badge/%F0%9F%A4%96-Artificial%20Intelligence-4c2271?style=for-the-badge&labelColor=lightgrey)
+
+![Mobile development](https://img.shields.io/badge/%F0%9F%93%B1-Mobile%20development-4c2271?style=for-the-badge&labelColor=lightgrey)
+
 
 </details>
 
 
 ## 🔗Find me on:
-
 [![CodePen](https://img.shields.io/badge/Codepen-@jotaaloud-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/jotaaloud)
 
 [![Gmail](https://img.shields.io/badge/GMAIL-jotaaloud%40gmail.com-%23FFFFFF?style=for-the-badge&logo=Gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=mailto%3Ajotaaloud%40gmail.com)](mailto:jotaaloud@gmail.com)
